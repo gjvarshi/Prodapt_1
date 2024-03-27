@@ -1,0 +1,2 @@
+module STRING_ASSIGNMENT2 {
+}
