@@ -25,19 +25,19 @@ public class Mainn {
         System.out.println(result);
         System.out.println("********************************************************************************************************");
         String hi = "Hi,";
-        String mom = "aunty.";
+        String mom = "mommy";
       
-        System.out.println(hi.concat(mom));
+       System.out.println(hi.concat(mom));
        System.out.println("*********************");
        String s="Mr jack sparrow";
        System.out.println(s.substring(0,s.indexOf(" ")));
        System.out.println("*********************");
-    StringBuffer sn=new StringBuffer();//tostring(stringbuilder)
-    sn.append("hi,");
-    sn.append("mommy");
-    String r=sn.toString();    
-     System.out.println(r);
-     System.out.println("***********************************************************************************************************");
+       StringBuffer sn=new StringBuffer();//tostring(stringbuilder)
+       sn.append("hi,");
+       sn.append("mommy");
+       String r=sn.toString();    
+       System.out.println(r);
+       System.out.println("***********************************************************************************************************");
  
     
 
